@@ -12,7 +12,7 @@ img{
 .container{
     width:90%;
     height:90vh;
-    background: url('../project12/img/house1.jpg');
+    background: url('../House/img/house1.jpg');
     background-position:center;
     background-size:cover;
     margin:2em 4em;
